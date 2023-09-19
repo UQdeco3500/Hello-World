@@ -1,7 +1,7 @@
 # H-eating
 ***
 ## Link To Project Proposal
-link to wiki page here containing proposal slides
+https://docs.google.com/presentation/d/19PF0YKcmplRt3Ouk9D7qDODOvsaowJ55/edit?usp=drive_web&ouid=114096202470275325421&rtpof=true
 
 ## Link to Design Process Overview
 https://github.com/UQdeco3500/Hello-World/wiki
