@@ -1,0 +1,223 @@
+{
+  "getUser": {
+    "status": 200,
+    "msg": "getUser接口调用成功！",
+    "vx": ""
+  },
+  "register": {
+    "code": 200,
+    "message": "恭喜你注册成功！"
+  },
+  "login": {
+    "code": 200,
+    "message": "恭喜你登陆成功！",
+    "token": "你好，你已经有权限了",
+    "ButtonAuth": [
+      "a",
+      "b",
+      "c"
+    ],
+    "RouterAuth": [
+      "/home",
+      "/doc"
+    ]
+  },
+  "getrestaurant": {
+    "status": 200,
+    "msg": "getrestaurant接口调用成功！",
+    "data": [
+      {
+        "name": "Thai",
+        "iamge": "http://localhost:3001/src/assets/images/5.jpg"
+      },
+      {
+        "name": "Asian",
+        "iamge": "http://localhost:3001/src/assets/images/6.jpg"
+      },
+      {
+        "name": "Italian",
+        "iamge": "http://localhost:3001/src/assets/images/7.jpg"
+      }
+    ]
+  },
+  "getnotificationtoday": {
+    "status": 200,
+    "msg": "getnotificationtoday接口调用成功！",
+    "data": [
+      {
+        "name": "Thai",
+        "iamge": "http://localhost:3001/src/assets/images/5.jpg"
+      },
+      {
+        "name": "Asian",
+        "iamge": "http://localhost:3001/src/assets/images/6.jpg"
+      },
+      {
+        "name": "Italian",
+        "iamge": "http://localhost:3001/src/assets/images/7.jpg"
+      }
+    ]
+  },
+  "getnotificationweek": {
+    "status": 200,
+    "msg": "getnotificationweek接口调用成功！",
+    "data": [
+      {
+        "name": "Thai",
+        "iamge": "http://localhost:3001/src/assets/images/5.jpg"
+      },
+      {
+        "name": "Asian",
+        "iamge": "http://localhost:3001/src/assets/images/6.jpg"
+      },
+      {
+        "name": "Italian",
+        "iamge": "http://localhost:3001/src/assets/images/7.jpg"
+      }
+    ]
+  },
+  "getcommunity": {
+    "status": 200,
+    "msg": "getcommunity接口调用成功！",
+    "data": [
+      {
+        "id": 1,
+        "name": "JameS",
+        "iamge": "http://localhost:3001/src/assets/images/22.jpg",
+        "likeCount": 28,
+        "title": "Global Gourmet Guild",
+        "content": "The Global Gourmet Guild is a melting pot for culinary enthusiasts who appreciateinternational cuisines. Members actively share and explore diverse recipes, engagein discussions about various food cultures, and exchange cooking tips, providing arich experience for food lovers of all levels."
+      },
+      {
+        "id": 2,
+        "name": "Kelly",
+        "iamge": "http://localhost:3001/src/assets/images/23.jpg",
+        "likeCount": 29,
+        "title": "Healthy Eating Hub",
+        "content": "Healthy Eating Hub is a supportive community for individuals committed to anutritious lifestyle. Members share tantalizing yet health-conscious recipes, offerinsights into effective dietary plans, and promote the joy of creating and enjoying foodthat is as good for the body as it is for the palate."
+      },
+      {
+        "id": 3,
+        "name": "Lily",
+        "iamge": "http://localhost:3001/src/assets/images/20.jpg",
+        "likeCount": 29,
+        "title": "Bakers Bliss Circle",
+        "content": "Welcoming bakers ofall skill levels, the Bakers Bliss Circle is a sweet spot for thosewho have a passion for baking. Whether you are a beginner or a seasoned pro, thisgroup provides a platform to share recipes, celebrate baking successes, discusstechniques, and explore the delightful world of baking together."
+      }
+    ]
+  },
+  "getcommunitydetail": {
+    "status": 200,
+    "msg": "getcommunity接口调用成功！",
+    "data": {
+      "community": {
+        "id": 1,
+        "name": "JameS",
+        "iamge": "http://localhost:3001/src/assets/images/22.jpg",
+        "likeCount": 28,
+        "title": "Global Gourmet Guild",
+        "content": "The Global Gourmet Guild is a melting pot for culinary enthusiasts who appreciateinternational cuisines. Members actively share and explore diverse recipes, engagein discussions about various food cultures, and exchange cooking tips, providing arich experience for food lovers of all levels."
+      },
+      "list": [
+        {
+          "id": 2,
+          "name": "Kelly",
+          "iamge": "http://localhost:3001/src/assets/images/23.jpg",
+          "likeCount": 29,
+          "title": "Healthy Eating Hub",
+          "content": "Healthy Eating Hub is a supportive community for individuals committed to anutritious lifestyle. Members share tantalizing yet health-conscious recipes, offerinsights into effective dietary plans, and promote the joy of creating and enjoying foodthat is as good for the body as it is for the palate."
+        },
+        {
+          "id": 3,
+          "name": "Lily",
+          "iamge": "http://localhost:3001/src/assets/images/20.jpg",
+          "likeCount": 29,
+          "title": "Bakers Bliss Circle",
+          "content": "Welcoming bakers ofall skill levels, the Bakers Bliss Circle is a sweet spot for thosewho have a passion for baking. Whether you are a beginner or a seasoned pro, thisgroup provides a platform to share recipes, celebrate baking successes, discusstechniques, and explore the delightful world of baking together."
+        }
+      ]
+    }
+  },
+  "createcommunity": {
+    "code": 200,
+    "message": "success！"
+  },
+  "getfriendlist": {
+    "status": 200,
+    "msg": "getfriendlist接口调用成功！",
+    "data": [
+      {
+        "id": 1,
+        "newMsgCount": 3,
+        "name": "James",
+        "avatar": "http://localhost:3001/src/assets/images/22.jpg"
+      },
+      {
+        "id": 2,
+        "newMsgCount": 66,
+        "name": "Kelly",
+        "avatar": "http://localhost:3001/src/assets/images/23.jpg"
+      },
+      {
+        "id": 3,
+        "newMsgCount": 7,
+        "name": "Tiffany",
+        "avatar": "http://localhost:3001/src/assets/images/20.jpg"
+      },
+      {
+        "id": 4,
+        "newMsgCount": 102,
+        "name": "William",
+        "avatar": "http://localhost:3001/src/assets/images/21.jpg"
+      },
+      {
+        "id": 5,
+        "newMsgCount": 9,
+        "name": "Jessica",
+        "avatar": "http://localhost:3001/src/assets/images/25.jpg"
+      },
+      {
+        "id": 6,
+        "newMsgCount": 8,
+        "name": "Jason",
+        "avatar": "http://localhost:3001/src/assets/images/26.jpg"
+      }
+    ]
+  },
+  "getmessagelist": {
+    "status": 200,
+    "msg": "getmessagelist接口调用成功！",
+    "data": [
+      {
+        "name": "JameS",
+        "type": "from",
+        "avatar": "http://localhost:3001/src/assets/images/22.jpg",
+        "message": "Are you in Brisbane on the 13th?"
+      },
+      {
+        "name": "JameS",
+        "type": "from",
+        "avatar": "http://localhost:3001/src/assets/images/22.jpg",
+        "message": "Are you in Brisbane on the 13th?"
+      },
+      {
+        "name": "JameS",
+        "type": "to",
+        "avatar": "http://localhost:3001/src/assets/images/19.jpg",
+        "message": "I'm sorry, Uncle James. I wasn't on vacation then."
+      },
+      {
+        "name": "JameS",
+        "type": "from",
+        "avatar": "http://localhost:3001/src/assets/images/22.jpg",
+        "message": "That's too bad. We miss you."
+      },
+      {
+        "name": "JameS",
+        "type": "to",
+        "avatar": "http://localhost:3001/src/assets/images/19.jpg",
+        "message": "Me too, looking forward to meeting you guys over the summer!"
+      }
+    ]
+  }
+}
