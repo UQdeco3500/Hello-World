@@ -1,17 +1,35 @@
-# 综述
-### 项目采用前后端分离设计,前端(frontpage)采用react,后端(backend)采用express.js
-### 前后端通讯采用json格式
-### 使用cookie将用户名及用户头像存储在客户端(browser)
-# 1.前端部分(frontpage):
-### 前端部分,分为登录,注册,首页,restaurant,Community,Chatroom几个页面
-### 几个页面全部做了页面大小自适应
-## 首页由banner,restaurant,notification,my friend, events几个组件组成,全部动态请求后端数据,动态展示
-## community 页面可以发帖,进入帖子详情页,并回复帖子
-## chatroom采用轮询(roll poling)的方式,获取朋友列表,聊天记录等
-# 2.后端部分(backend):
-### 后端部分全部采用restful API设计,使用express.js.用户信息存储在data文件夹里面几个.json文件中
-### chats.json
-### events.json
-### forum.json
-### notification.json
-### users.json
+### Overview
+
+- The project follows a design with front-end and back-end separation.
+- The frontend utilizes React, while the backend is developed using Express.js.
+- Communication between the front-end and back-end is facilitated through JSON.
+- Cookies are employed to save the user's name and avatar on the client side (browser).
+
+# 1. Front-end (Frontpage)
+
+- The frontend is split into several sections: Login, Registration, Home, Restaurant, Community, and Chatroom.
+- Each section is designed to be responsive to different screen sizes.
+
+  ## Home Page
+
+  - Comprises several components: Banner, Restaurant, Notification, My Friend, Events.
+  - All components dynamically fetch and display data from the backend.
+
+  ## Community Page
+
+  - Allows users to post content, view post details, and leave replies.
+
+  ## Chatroom
+
+  - Implements a polling method to retrieve the friends' list, chat histories, and more.
+
+# 2. Backend
+
+- Designed around the RESTful API principle and built with Express.js.
+- User data is stored within several `.json` files located in the data directory:
+
+  - `chats.json`
+  - `events.json`
+  - `forum.json`
+  - `notification.json`
+  - `users.json`
