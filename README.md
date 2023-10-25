@@ -22,22 +22,23 @@ A brief description of the project, its purpose, and any other general informati
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Repository Structure](#repository-structure)
+- [Hyperlink for the Project](#hyperlink-for-the-project)
+- [Structure of the document](#Structure-of-the-document)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Login Credentials](#login-credentials)
 
-
-## Overview
-
-Detailed overview of the project, explaining the problem it solves, the technology stack used, and other relevant details.
 
 ## Repository Structure
 
 - **H-EATING Folder** - This folder contains all the code used to build the project's website, including front-end and back-end code as well as database connection code. The app folder contains all the front-end code, and the backend folder contains all the back-end code and the JSON to store the data.
 - **Prototype.md** - Included in this file are links to interactive high-fidelity prototypes and the corresponding website domains deployed in the cloud. Users can view the high-fidelity prototype and the website by clicking on the links.
 - **README.md** - Provide a guide to the contents of the repository and a hyperlinked overview of the project and structure of your documentation. Also include instructions for how to deploy and prototype.
+
+## Hyperlink for the Project
+
+## Structure of the document
 
 ## Deployment
 
