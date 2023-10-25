@@ -41,10 +41,36 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 
 ## Deployment
 
-1. Step 1 for deployment, including any prerequisites.
-2. Step 2...
-3. Step 3...
-(Continue with all necessary steps)
+### :art: **High-Fidelity Prototype Development**:
+
+- **Initial Feedback & Design**:
+  - Post wireframes and low-fidelity prototypes, we gathered user feedback.
+  - Based on the feedback, our team developed a high-fidelity prototype on the Figma platform.
+
+- **Interactive Design on Figma**:
+  - Collaboratively, the team built a fully functional interactive high-fidelity prototype on Figma, embracing the social & mobile concept.
+
+### 🌐 **Website Deployment**:
+
+- **Deploying Core Features**:
+  - Following the completion of the high-fidelity prototype, we transitioned the core social features of the prototype to the website.
+
+- **Technical Specifications**:
+  - **Design**: The project adopts a front-end and back-end separation design.
+    - :computer: **Front-end**: Uses the React framework.
+    - :gear: **Back-end**: Developed with Express.js.
+  
+  - **Communication Between Front-end & Back-end**:
+    - :speech_balloon: Data is exchanged using the JSON format.
+  
+  - **User Data Storage**:
+    - :cookie: Cookies are used to store the username and user avatar in the client browser.
+
+  - **Hosting & Domain**:
+    - :cloud: Hosted on an AliCloud server.
+    - :link: Access the application at [http://8.217.79.137/#/app](http://8.217.79.137/#/app).
+
+
 
 ## Usage
 
