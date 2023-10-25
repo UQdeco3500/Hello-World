@@ -110,7 +110,7 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 ### Profile Navigation:
 
 - :bust_in_silhouette: **Profile Overview**:
-  - The profile screen displays the user's posting history, favourite posts, and healthy restaurant recommendations.
+  - The profile screen displays the user's posting history, favourite posts, healthy restaurant recommendations and privacy settings.
 
 - :star: **Collections**:
   - In the collection section, users can explore their saved preferences.
