@@ -49,9 +49,64 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 
 ## Usage
 
-1. Once deployed, step 1 to use the prototype.
-2. Step 2...
-3. Step 3...
+### User Registration & Sign In:
+
+- :bust_in_silhouette: **Registration**:
+  - Fill in the information in the registration interface.
+  - Click "sign up" to proceed to the next page.
+
+- :key: **EMS Code Confirmation**:
+  - Fill in the EMS Code.
+  - Click "confirm".
+
+- :door: **Sign In**:
+  - On the sign-in page, enter your account information and age.
+  - Click the "sign in" button to access the home page.
+
+---
+
+### Homepage Navigation:
+
+- :book: **Daily Recommendation**:
+  - On the homepage, click "Daily Recommendation" to access the introduction content.
+
+- :bell: **Message Alert/Notification Area**:
+  - View all message replies including comments and likes from today to this week.
+  - Users can click buttons to either reply to messages or follow a user.
+
+- **Friend & Community Posts**:
+  - View the number of likes for the latest posts from friends and communities.
+
+- :calendar: **Booking Activities**:
+  - Users can book the latest activity online.
+  - Click on an activity to see its detailed content introduction page.
+
+---
+
+### Community Navigation:
+
+- :houses: **Community Home (Comm Home)**:
+  - Tap "Community" from the home to access Comm Home.
+  - From Comm Home:
+    - Tap "friend" to access the friend chat interface.
+    - Tap "event" for the Event timetable.
+    - Tap a community name to access its main interface.
+      - Inside, tap a member's posting avatar to access the friend interface.
+    - Tap "join" to access the community event interface.
+      - Tap "posts" to access where community members post interactions.
+      - Tap "join" to access event details.
+      - Tap "public" to access public community events.
+      - Tap "store events" to access the store events interface.
+        - Inside, click "store details" to access the store details page.
+    - Tap "private comm" to access the private circle interface.
+    - Tap a friend's message to access the chat interface.
+    - Inside the private group events interface:
+      - Tap "posts" to see where community members post interactions.
+      - Tap "join" to access event details.
+
+- :arrow_backward: **General Navigation**:
+  - Click "back" to return to the previous page.
+
 (Continue with all necessary steps)
 
 ## Login Credentials
