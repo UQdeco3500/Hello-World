@@ -4,7 +4,7 @@
 https://docs.google.com/presentation/d/19PF0YKcmplRt3Ouk9D7qDODOvsaowJ55/edit?usp=drive_web&ouid=114096202470275325421&rtpof=true
 
 ## Link to Design Process Overview
-https://github.com/UQdeco3500/Hello-World/wiki
+[https://github.com/UQdeco3500/Hello-World/wiki](https://github.com/UQdeco3500/Hello-World/wiki/02-Design-Process-Overview)
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
 link to relevant links for prototype, promotional material & documentation
