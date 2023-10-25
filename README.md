@@ -107,7 +107,28 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 - :arrow_backward: **General Navigation**:
   - Click "back" to return to the previous page.
 
-(Continue with all necessary steps)
+### Profile Navigation:
+
+- :bust_in_silhouette: **Profile Overview**:
+  - The profile screen displays the user's posting history, favourite posts, and healthy restaurant recommendations.
+
+- :star: **Collections**:
+  - In the collection section, users can explore their saved preferences.
+    - Click on "restaurants" to view favourited restaurants.
+    - Click on "posts" to see other users' posts that have been saved.
+
+- :gear: **Privacy & Personalization Settings** (Located on the right side of the profile):
+  - **Message Privacy**:
+    - Change your messaging preferences by clicking on the arrow.
+      - Toggle between allowing "strangers" and "friends only" to message you.
+  - **Personalization**:
+    - Adjust your personalized settings by clicking the button.
+      - Change the status from "on" to "off" or vice versa for personalization preferences.
+  - :floppy_disk: **Save Settings**:
+    - After making your desired changes, click "save".
+    - Upon saving, you'll be redirected back to the homepage.
+
+
 
 ## Login Credentials
 As for the website usage, users can register by themselves. If they want to use the website directly, they can use the preregisted username and password as follows.
