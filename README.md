@@ -107,6 +107,31 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 - :arrow_backward: **General Navigation**:
   - Click "back" to return to the previous page.
 
+### Restaurant Screen Navigation:
+
+- :round_pushpin: **Location & Recommendations**:
+  - The website automatically detects the user's current location.
+  - Real-time suggestions of the nearest restaurants to the user are provided.
+  
+- :compass: **Exploratory Mode** (Located at the upper left corner of the page):
+  - By default, the exploratory mode button is activated.
+    - When active, it recommends the nearest healthy restaurants based on the user's location.
+  - Deactivating the exploratory mode button will display only bookmarked nearby healthy restaurants.
+
+- :mag: **Search & Explore**:
+  - Click "Search the area" at the bottom of the page.
+    - Displays specific information about the healthy restaurant, including the main dish's name.
+    - Clicking on a restaurant reveals more detailed information about it.
+  - After exploring restaurant details:
+    - Click on the "list" at the top to view other searched restaurants.
+
+- :calendar: **Initiate Potluck** (Located on the lower right side of restaurant info):
+  - This feature allows users to plan offline gatherings at the restaurant's location.
+    - Choose the appropriate time and favourite dishes.
+    - After making selections, click the "initiate potluck" button at the bottom.
+  - Successful initiation redirects users to the restaurant's homepage.
+
+
 ### Profile Navigation:
 
 - :bust_in_silhouette: **Profile Overview**:
