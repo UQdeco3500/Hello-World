@@ -38,7 +38,6 @@ Detailed overview of the project, explaining the problem it solves, the technolo
 - **H-EATING Folder** - This folder contains all the code used to build the project's website, including front-end and back-end code as well as database connection code. The app folder contains all the front-end code, and the backend folder contains all the back-end code and the JSON to store the data.
 - **Prototype.md** - Included in this file are links to interactive high-fidelity prototypes and the corresponding website domains deployed in the cloud. Users can view the high-fidelity prototype and the website by clicking on the links.
 - **README.md** - Provide a guide to the contents of the repository and a hyperlinked overview of the project and structure of your documentation. Also include instructions for how to deploy and prototype.
-... (and so on for other folders and files)
 
 ## Deployment
 
