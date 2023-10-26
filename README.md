@@ -1,6 +1,5 @@
 # H-eating
 
-A brief description about the project, its purpose, and any other general information.
 ***
 ## Link To Project Proposal
 https://docs.google.com/presentation/d/19PF0YKcmplRt3Ouk9D7qDODOvsaowJ55/edit?usp=drive_web&ouid=114096202470275325421&rtpof=true
