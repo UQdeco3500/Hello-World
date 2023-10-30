@@ -22,8 +22,6 @@ A brief description of the project, its purpose, and any other general informati
 ## Table of Contents
 
 - [Repository Structure](#repository-structure)
-- [Hyperlink for the Project](#hyperlink-for-the-project)
-- [Structure of the document](#Structure-of-the-document)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Login Credentials](#login-credentials)
