@@ -34,10 +34,8 @@ A brief description of the project, its purpose, and any other general informati
 - **H-EATING Folder** - This folder contains all the code used to build the project's website, including front-end and back-end code as well as database connection code. The app folder contains all the front-end code, and the backend folder contains all the back-end code and the JSON to store the data.
 - **Prototype.md** - Included in this file are links to interactive high-fidelity prototypes and the corresponding website domains deployed in the cloud. Users can view the high-fidelity prototype and the website by clicking on the links.
 - **README.md** - Provide a guide to the contents of the repository and a hyperlinked overview of the project and structure of your documentation. Also include instructions for how to deploy and prototype.
-
-## Hyperlink for the Project
-
-## Structure of the document
+- **Artefacts Folder** - Includes art form materials such as posters, brochures and promotional videos.
+- **Documents Folder** - Includes all the materials and evidence needed for the design process from stand up one to stand up three.
 
 ## Deployment
 
@@ -73,7 +71,7 @@ A brief description of the project, its purpose, and any other general informati
 
 
 ## Usage
-
+### :art: **High-Fidelity Prototype Usage**:
 ### User Registration & Sign In:
 
 - :bust_in_silhouette: **Registration**:
@@ -178,7 +176,14 @@ A brief description of the project, its purpose, and any other general informati
     - After making your desired changes, click "save".
     - Upon saving, you'll be redirected back to the homepage.
 
+### 🌐 **Website Usage**:
 
+1. Step 1: On the homepage, you can scroll down to view the restaurant, notification, events and my friends information
+2. Step 2: On the restaurant page, you can see the main information of the nearest restaurant.
+3. Step 3: On the community page, you can see the community information.
+4. Step 4: On the community page, you can click the "+" and then post your community information on online(after the user login in)
+5. Step 5: On the chatroom page, you can find if any friend text you, if they text you, you will see the numbers on their avatar.
+6. Step 6: After clicking their avatar, you can chat with them in real-time, and on the other side, your friend will see your message and response you directly.( This step need two users login in at the same time)
 
 ## Login Credentials
 As for the website usage, users can register by themselves. If they want to use the website directly, they can use the preregisted username and password as follows.
